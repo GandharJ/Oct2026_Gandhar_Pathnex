@@ -1,0 +1,4 @@
+AWS Concept learing - 3 hrs
+git and linux practice - 1 hr
+preparing interview questions for git and linux - 1.5 hr
+
