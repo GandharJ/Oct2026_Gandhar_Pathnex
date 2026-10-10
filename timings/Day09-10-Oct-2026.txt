@@ -1,0 +1,2 @@
+Learning Docker concepts - 1 hr
+Practicing Docker commands - 3 hrs
